@@ -6,8 +6,9 @@ module.exports = {
   themeConfig: {
     sidebar: [
       {
-        title: "基本类型",
-        children: [["/basetype/number/", "数字类型"]]
+        title: "语法",
+        // children: [["/basetype/number/", "数字类型"]]
+        children: [["/basetype/", "基本类型"]]
       }
     ]
   }
